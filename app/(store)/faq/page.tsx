@@ -1,0 +1,1 @@
+export default function FaqPage() { return <div><h1 className='text-3xl font-bold'>FAQ</h1><p className='mt-3'>How do I pay? You do not pay online; we call you to confirm your order request.</p></div>; }
